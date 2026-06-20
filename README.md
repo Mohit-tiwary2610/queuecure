@@ -309,14 +309,14 @@ Your frontend URL will be: `https://your-site-name.netlify.app`
 
 ### Deployment Checklist
 
-- [ ] Backend deployed on HuggingFace Spaces (Docker)
-- [ ] `FRONTEND_URL` secret set on HuggingFace
-- [ ] Frontend built with correct `VITE_BACKEND_URL`
-- [ ] Frontend deployed on Netlify
-- [ ] `VITE_BACKEND_URL` env var set in Netlify
-- [ ] Frontend redeployed after setting env var
-- [ ] Test: open `/receptionist` + `/patient` — confirm live sync works
-- [ ] Test: add patient → token appears on patient screen instantly
+- [x] Backend deployed on HuggingFace Spaces (Docker)
+- [x] `FRONTEND_URL` secret set on HuggingFace
+- [x] Frontend built with correct `VITE_BACKEND_URL`
+- [x] Frontend deployed on Netlify
+- [x] `VITE_BACKEND_URL` env var set in Netlify
+- [x] Frontend redeployed after setting env var
+- [x] Test: open `/receptionist` + `/patient` — confirm live sync works
+- [x] Test: add patient → token appears on patient screen instantly
 
 ---
 
