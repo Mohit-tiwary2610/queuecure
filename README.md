@@ -6,8 +6,8 @@
 
 *Built for Queue Cure '26 Hackathon — Wooble × Unstop*
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D4AA?style=for-the-badge)](https://your-app.netlify.app)
-[![Backend](https://img.shields.io/badge/🤗_HuggingFace_Space-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/spaces/your-username/queuecure-backend)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D4AA?style=for-the-badge)](https://queuecure.netlify.app)
+[![Backend](https://img.shields.io/badge/🤗_HuggingFace_Space-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/spaces/mohit-tiwary/mogenai-backend)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Mohit-tiwary2610/queuecure)
 
 **76% of India's clinics still run on paper token slips and shouting.**  
